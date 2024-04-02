@@ -1,4 +1,4 @@
-# Meetup Explorer App
+# Meetup Event Scraper and Event Display App
 Live Demo - [https://meetupevents.netlify.app/](https://meetupevents.netlify.app/)
 
 ## About the App
