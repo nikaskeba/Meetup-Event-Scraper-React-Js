@@ -73,7 +73,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - email@example.com
-
-Project Link: [https://github.com/yourusername/meetup-explorer](https://github.com/yourusername/meetup-explorer)
 ```
