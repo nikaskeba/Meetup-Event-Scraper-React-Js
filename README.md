@@ -1,4 +1,3 @@
-```
 # Meetup Explorer App
 
 ## About the App
@@ -24,8 +23,8 @@ Before installing the app, make sure you have the following installed:
    First, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/meetup-explorer.git
-   cd meetup-explorer
+   git clone https://github.com/nikaskeba/Meetup-Event-Scraper-React-Js.git
+   cd Meetup-Event-Scraper-React-Js
    ```
 
 2. **Install Dependencies**
