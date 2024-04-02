@@ -1,4 +1,5 @@
 # Meetup Explorer App
+Live Demo - [https://meetupevents.netlify.app/](https://meetupevents.netlify.app/)
 
 ## About the App
 
